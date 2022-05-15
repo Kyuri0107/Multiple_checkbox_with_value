@@ -1,2 +1,2 @@
-# Multiple_checkbox_with_value
+# Multiple_checkbo_value
 Created with CodeSandbox
